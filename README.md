@@ -7,8 +7,7 @@
 
 This repository provides a comprehensive benchmark of classical clustering algorithms using different preprocessing techniques applied to a non-linear synthetic dataset. The goal is to evaluate how preprocessing (scaling, PCA, UMAP) affects clustering performance on complex geometric structures such as moon-shaped clusters.
 
-<img width="525" height="325" alt="image" src="https://github.com/user-attachments/assets/99d2db32-c2b2-4fec-82ee-d312ad393f30" />
-
+<img width="499" height="320" alt="image" src="https://github.com/user-attachments/assets/420a0ef4-9875-4900-8b64-01dfea3881af" />
 
 📌 **Objectives**
 
